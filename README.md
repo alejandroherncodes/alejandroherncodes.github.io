@@ -85,6 +85,7 @@
   <div class="dot" onclick="scrollToSection(6)"></div>
   <div class="dot" onclick="scrollToSection(7)"></div>
   <div class="dot" onclick="scrollToSection(8)"></div>
+  <div class="dot" onclick="scrollToSection(9)"></div>
 </div>
 
 <section id="one">
