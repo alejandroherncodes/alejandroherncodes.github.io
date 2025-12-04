@@ -100,7 +100,7 @@
 </section>
 
 <section id="three">
-  <h1>Gallery 2/h1>
+  <h1>Gallery 2</h1>
   <p>Blurb 1</p>
   <img class="gallery-img" src="your-image-2.jpg">
 </section>
