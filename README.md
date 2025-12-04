@@ -80,6 +80,11 @@
   <div class="dot" onclick="scrollToSection(1)"></div>
   <div class="dot" onclick="scrollToSection(2)"></div>
   <div class="dot" onclick="scrollToSection(3)"></div>
+  <div class="dot" onclick="scrollToSection(4)"></div>
+  <div class="dot" onclick="scrollToSection(5)"></div>
+  <div class="dot" onclick="scrollToSection(6)"></div>
+  <div class="dot" onclick="scrollToSection(7)"></div>
+  <div class="dot" onclick="scrollToSection(8)"></div>
 </div>
 
 <section id="one">
