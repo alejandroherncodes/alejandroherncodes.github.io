@@ -83,25 +83,55 @@
 </div>
 
 <section id="one">
-  <h1>DDJDS Exhibition</h1>
-  <p>Tracing the sonic and political history of transgender music producers from analog synthesis to digital futures.</p>
+  <h1>Title/Digital Exhibition</h1>
+  <p>Subtitle</p>
 </section>
 
 <section id="two">
-  <h1>Gallery 1: Analog Futures</h1>
-  <p>Your Wendy Carlos text goes here. You can embed audio, images, or video.</p>
+  <h1>Gallery 1</h1>
+  <p>Blurb 1</p>
   <img class="gallery-img" src="your-image-1.jpg">
 </section>
 
 <section id="three">
-  <h1>Gallery 2: The Club Underground</h1>
-  <p>Insert your text about queer nightlife, repetition, shared embodiment, etc.</p>
+  <h1>Gallery 2/h1>
+  <p>Blurb 1</p>
   <img class="gallery-img" src="your-image-2.jpg">
 </section>
 
 <section id="four">
-  <h1>Gallery 3: Hyperpop + Resurgence</h1>
-  <p>Insert your SOPHIE/Arca/Devy Devine etc gallery text here.</p>
+  <h1>Gallery 3</h1>
+  <p>Blurb 1</p>
+  <img class="gallery-img" src="your-image-3.jpg">
+</section>
+
+<section id="five">
+  <h1>Gallery 4</h1>
+  <p>Blurb 1</p>
+  <img class="gallery-img" src="your-image-3.jpg">
+</section>
+
+<section id="six">
+  <h1>Gallery 5</h1>
+  <p>Blurb 1</p>
+  <img class="gallery-img" src="your-image-3.jpg">
+</section>
+
+<section id="seven">
+  <h1>Gallery 6</h1>
+  <p>Blurb 1</p>
+  <img class="gallery-img" src="your-image-3.jpg">
+</section>
+
+<section id="eight">
+  <h1>Gallery 7</h1>
+  <p>Blurb 1</p>
+  <img class="gallery-img" src="your-image-3.jpg">
+</section>
+
+<section id="nine">
+  <h1>Gallery 8</h1>
+  <p>Blurb 1</p>
   <img class="gallery-img" src="your-image-3.jpg">
 </section>
 
